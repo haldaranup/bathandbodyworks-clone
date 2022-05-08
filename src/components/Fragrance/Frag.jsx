@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from "../footer/Footer";
 import MidFrag from "./Midfrag";
 import "./frag.scss";
 
