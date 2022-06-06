@@ -5,8 +5,6 @@ Bath &amp; Body Works, LLC. is an American retail store chain that sells soaps, 
 ![bathandbodyworks](https://miro.medium.com/max/1400/1*ywxvWib79n2i6Mkc8PU1-A.png)
 
 
-# Welcome :wave:
-
 
 ## Run Locally :-
 ```bash
